@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: freelance_assistant
+Version: 0.1
+Requires-Dist: django
+Requires-Dist: django-cors-headers
+Requires-Dist: azure-ai-inference
+Requires-Dist: langchain-google-genai
+Requires-Dist: langchain-groq
+Requires-Dist: langchain-core
+Requires-Dist: requests

@@ -1,0 +1,16 @@
+README.md
+setup.py
+freelance_assistant.egg-info/PKG-INFO
+freelance_assistant.egg-info/SOURCES.txt
+freelance_assistant.egg-info/dependency_links.txt
+freelance_assistant.egg-info/requires.txt
+freelance_assistant.egg-info/top_level.txt
+src/__init__.py
+src/analysis/__init__.py
+src/analysis/job_analyzer.py
+src/models/__init__.py
+src/models/azure_models.py
+src/models/base.py
+src/models/external_models.py
+tests/test_job_analysis.py
+tests/test_model_connections.py

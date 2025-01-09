@@ -1,0 +1,7 @@
+django
+django-cors-headers
+azure-ai-inference
+langchain-google-genai
+langchain-groq
+langchain-core
+requests
